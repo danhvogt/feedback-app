@@ -14,7 +14,7 @@ export const FeedbackProvider = ( {children})  => {
         {
             id: 2,
             text: 'This is feedback item 2',
-            rating: 5,
+            rating: 4,
         },
         {
             id: 3,
